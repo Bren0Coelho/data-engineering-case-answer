@@ -51,6 +51,3 @@ def patient_info(id_number):
     return patient_dic
 
 
-id_number = int(input('Please, type a patient ID: '))
-print(patient_info(id_number))
-
