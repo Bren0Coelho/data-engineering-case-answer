@@ -1,6 +1,6 @@
 """
 Author: Breno Spinelli Coelho
-This code was develop to accomplish part 2 of Lablift data engineering case tasks
+This code was developed to accomplish part 2 of Lablift data engineering case tasks
 
 """
 
